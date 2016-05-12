@@ -1,0 +1,29 @@
+{
+  "name": "osc-thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.7.6",
+    "babel-loader": "^6.2.4",
+    "riot": "^2.3.18",
+    "riotjs-loader": "^3.0.0",
+    "webpack": "^1.12.15",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-loader": "^6.2.4",
+    "riot": "^2.3.18",
+    "riotjs-loader": "^3.0.0",
+    "webpack": "^1.12.15",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "scripts": {
+    "server": "./node_modules/.bin/webpack-dev-server --host=0.0.0.0 --hot --inline",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
