@@ -1,7 +1,7 @@
 Oscillator-sequencer
 ====================
 
-This is riot.js experiment.
+This is a riot.js experiment.
 
 A small oscillator step sequencer made for fun.
 
